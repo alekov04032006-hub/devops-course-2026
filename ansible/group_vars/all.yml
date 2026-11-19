@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/alekov04032006-hub/devops-pr10"
+app_tag: "0c6767aa5061ab82b9bc82389fece8d69e2b1ab2"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
